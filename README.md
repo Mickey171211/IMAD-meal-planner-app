@@ -3,6 +3,8 @@ An app to give meal suggestions through out the day with inputing simple time li
 
 My youtube link: https://youtu.be/Uj5PDf1KD44 
 
+github repsitory: https://github.com/Mickey171211/IMAD-meal-planner-app.git
+
 (the link can just be copied and pasted to the search bar and you'll be taken to my video )
 
 
