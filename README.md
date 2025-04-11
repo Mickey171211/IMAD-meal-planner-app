@@ -1,5 +1,5 @@
 # IMAD-meal-planner-app
-an app to give meal suggestions through out the day(morning; eggs, afternoon:...: evening:...)
+An app to give meal suggestions through out the day with inputing simple time like (morning, afternoon, evening) and the app gives feed back like (eggs in the morning, in the afternoon sandwich, for dinner pasta) this is a simple app for easy suggestion on what to eat during the day 
 
 My youtube link: https://youtu.be/Uj5PDf1KD44 
 
